@@ -5,7 +5,7 @@ label: gitops
 replicas: 3
 image:
   repository: asia.gcr.io/apt-retina-374510/china_gcp_learning # 変更箇所 DOCKERHUB_REPO_NAME
-  tag: d27198c66ca5836d551c239937c3146eecb0202c
+  tag: 6fa8b39ded27014df6f6b8e562249f76cde6bfbf
 
 imageConfig:
   pullPolicy: IfNotPresent
